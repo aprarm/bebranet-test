@@ -47,7 +47,7 @@ async def on_ready():
     os.system("cls && color c")
     print("""
                               
-                                Developed by HaipKotik
+                                Developed by Aprarm
                                 created witch BebraNET 
 
 ░░░░░░░░░░░░░░░░░███████░░░███████░░███████░░░░████████░░░░░░████░░░░░░░░░░░░░
